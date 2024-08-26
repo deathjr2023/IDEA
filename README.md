@@ -4,6 +4,6 @@
 
 ## [PDF文档](https://github.com/deathjr2023/IDEA/tree/main/Markdown)
 
-## DOCX文档
+## [DOCX文档](https://github.com/deathjr2023/IDEA/tree/main/DOCX)
 
-## WPS文档
+## [WPS文档](https://github.com/deathjr2023/IDEA/tree/main/WPS)
