@@ -2,7 +2,7 @@
 
 ## [Markdown文档](https://github.com/deathjr2023/IDEA/tree/main/Markdown)
 
-## [PDF文档](https://gitee.com/deathjr2023/idea/tree/master/PDF)
+## [PDF文档](https://github.com/deathjr2023/IDEA/tree/main/Markdown)
 
 ## DOCX文档
 
